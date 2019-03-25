@@ -6,4 +6,6 @@ package java.lang;
  * @Email : jiewang11@iflytek.com
  */
 public class Object {
+
+    
 }
